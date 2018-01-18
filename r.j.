@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int main() {
+	cout << ("welcome player. you wake up in strange place not reconizable by any formation. you look to your left and see a small key, but no door") << endl;
+}
+
+
